@@ -1,3 +1,33 @@
-<html>
-gus
-</html>
+ <form>
+        <fieldset>
+            <legend>Личная информация </legend>
+            
+                <label>Имя</label>
+                    <input type="text" name="name" />
+           <br/>
+            
+                <label>Фамилия</label>
+                    <input type="text" name="name" " />
+            
+            <br/>
+                
+                <label> Телефон</label>
+                    <input type="tel" name="phone"  />
+            <br/>
+                
+                 <label> Адрес электронной почты </label>
+                    <input type="text" name="email" placeholder="user@domain.com" />
+            <br/>
+                
+                 <label> Сайт </label>
+                    <input type="url" name="website"  /></label>
+              
+            </br>
+              
+                <label> Дата рождения </label>
+                    <input type="text" name="dob" placeholder="11.12.1999">
+            
+            </br>   
+            
+            
+        </fieldset>
